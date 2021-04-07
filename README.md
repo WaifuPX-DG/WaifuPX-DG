@@ -1,7 +1,6 @@
 👋 &nbsp;Hola a todos! <br/>
 ======
-
-Test
+Simplemente un novato en programación, modder y diseñador gráfico en tiempo libre, entusiasta del JDM y Monitas "Chinas" xD
 
 **Puedes encontrarme en:**
 
