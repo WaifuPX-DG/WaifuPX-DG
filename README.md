@@ -1,7 +1,7 @@
 👋 &nbsp;Hola a todos! <br/>
 ======
 Simplemente un novato en programación, modder y diseñador gráfico en tiempo libre, entusiasta del JDM y Monitas "Chinas" xD
-
+Mi proyecto principal es WaifuPX
 **Puedes encontrarme en:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/DGAlgorithm)
