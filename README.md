@@ -1,6 +1,6 @@
 👋 &nbsp;Hola a todos! <br/>
 ======
-Entusiasta del diseño gráfico, JDM lover, interesado en la cultura y arte Japonés xD
+I'm just a fan of design and customization
 > Mi proyecto principal es WaifuPX
 
 **Puedes encontrarme en:**
