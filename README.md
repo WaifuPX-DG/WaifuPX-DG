@@ -1,7 +1,7 @@
 👋 &nbsp;Hola a todos! <br/>
 ======
 I'm just a fan of design and customization
-> Mi proyecto principal es WaifuPX
+> I wish you the same thing you wish me.
 
 **Puedes encontrarme en:**
 
